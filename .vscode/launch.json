@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AccountMovementsApplication<wallet>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.banck.wallet.AccountMovementsApplication",
+            "projectName": "wallet",
+            "args": ""
+        }
+    ]
+}
